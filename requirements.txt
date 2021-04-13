@@ -6,7 +6,6 @@ scipy
 sklearn
 bokeh
 folium
-warnings
 matplotlib
 seaborn
 plotly
