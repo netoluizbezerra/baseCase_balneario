@@ -12,4 +12,4 @@ plotly
 geopandas
 keplergl
 recordtype
-xlrd
+xlrd==2.0.1
